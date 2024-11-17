@@ -37,15 +37,6 @@
 - Expense entry form for each category.
 - Expense summary screen showing categorized expenses.
 
----
-
-### Milestones for Week 2
-1. Implement the expense entry API and UI form.
-2. Design and develop the expense summary dashboard.
-3. Add authentication middleware to protect routes.
-4. Enhance UI styling for better user experience.
-
----
 
 ### How to Run the Project
 
